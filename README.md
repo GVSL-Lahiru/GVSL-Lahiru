@@ -15,6 +15,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GVSL-Lahiru/github-pacman/output/pacman.svg" alt="Pac-Man Contribution Graph">
+</p>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
