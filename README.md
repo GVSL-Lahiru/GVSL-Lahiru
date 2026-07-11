@@ -2,7 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=GVSL-Lahiru&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Visitors"/>
 </p>
 
-# 🖐 Hi, I am Lahiru :)
+<!--
+<p align="center">
+  <img src="assets/hourglass.svg" width="180">
+</p>
+-->
+
+# 🖐 Hi, I am Lahiru :) 
 
 - 🎓 I'm currently following a BSE degree program at OUSL.
 - 🧩 My hobby is making animations/cartoons as a freelance animator on my YouTube channel.
