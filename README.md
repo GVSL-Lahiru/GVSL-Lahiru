@@ -18,7 +18,18 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/GVSL-Lahiru/github-pacman/output/pacman.svg" alt="Pac-Man Contribution Graph">
 </p>
-  
+
+<!-- Connect with me inline on one line -->
+<p align="center">Connect with me: 
+  <a href="https://linkedin.com/in/in/h-lahiru-kavinda-dilshan-503aa1267" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/c/@gamingvenomsrilanka" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
