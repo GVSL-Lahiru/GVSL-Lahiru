@@ -37,6 +37,12 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GVSL-Lahiru/GVSL-Lahiru/output/pacman-contribution-graph.svg">
 </picture>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/demo/pacman.svg">
+    <img alt="pacman contribution graph" src="assets/demo/pacman.svg">
+</picture>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
