@@ -31,9 +31,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GVSL-Lahiru/github-pacman/output/pacman.svg" alt="Pac-Man Contribution Graph">
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+</picture>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
