@@ -8,15 +8,12 @@
 </p>
 -->
 
-<h1 align="center">🖐 Hi, I am Lahiru :)</h1>
+<h2 align="center">🖐 Hi, I am Lahiru Kavinda :)</h2>
 
 <div align="center">
-  <P>🎓 I'm currently following a BSE degree program at OUSL.</p>
-  <p>🧩 My hobby is making animations / cartoons as a freelance animator on my YouTube channel.</p>
-  <p>👨‍💻 I would like to be a software engineer in the animation & game development category.</p>
-  <p>🍕 As my favorites, I like to have pets & eat food from different countries.</p>
-  <p>🐱‍👤 <b>Pronouns:</b> Lahiru / H.L.K.Dilshan / Venom.YT / GVSL</p>
-  <p>⚡ <b>Fun fact:</b> Work smart, not hard 😉</p>
+  <P><b>🎓 Education:</b><code>Currently following a BSE degree program at OUSL.</code></p>
+  <p><b>🧩 Hobby:</b><code>Making animations / cartoons as a freelance animator on my YouTube channel.</code></p>
+  <p><b>👨‍💻 Goal:</b><code>To be a software engineer in the animation & game development field.</code></p>
 </div>
 
 &nbsp;
