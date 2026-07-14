@@ -11,9 +11,8 @@
 <h2 align="center">🖐 Hi, I am Lahiru Kavinda :)</h2>
 
 <div align="center" background-color="white">
-  <P><b>🎓 Education: </b><i>Currently following a BSE degree program at OUSL.</i></p>
-  <p><b>🧩 Hobby: </b><i>Making animations / cartoons as a freelance animator on my YouTube channel.</i></p>
-  <p><b>👨‍💻 Goal: </b><i>To be a software engineer in the animation & game development field.</i></p>
+  <p>Bachelor of Software Engineer Honour Undergraduate At OUSL <b>|</b> YouTube Animator (GVSL)</p>
+  <p><i>( <b>Goal: </b>To be a software engineer in the animation & game development field )</i></p>
 </div>
 
 <h3 align="center">
